@@ -1,17 +1,18 @@
 ## Postgresql
 
 ### Here is code for pgAdmin 4
+> psqlwithpython - here's a functions that python interacts with potsgresql and outputs a lot of data via: title, name, category and search
+___
 
-####    			Postgresql 
 #### Таблица - Table
 #### Колонна - Column
 #### строка - row
-
+___
 #### DDL - Data Definition Language - Create, Alter, Drop
 #### DML - Data Manipulation Language - SELECT, INSERT, UPDATE, DELETE
 #### TCL - Transaction Control Language - COMMIT, ROLLBACK, SAVAPOIN
 #### DCL - Data Control Language - GRANT, REVOKE, DENY
-#### ___________________________________________________________________________________________
+___
 #### Типы данных в psql:
 
 #### Integral Numbers (числа) - smallint(малые), integer(нормальные), bigint(большие)
@@ -23,4 +24,4 @@
 
 #### Characters(строки) - char(точная длина столбца), varchar(до 10ти запись), text(текст)
 
-#### Temporal - date, time, timestamp, interval, timestamptz
+#### imTemporal - date, time, timestamp, interval, timestamptz
