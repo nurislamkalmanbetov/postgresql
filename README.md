@@ -4,6 +4,9 @@
 > psqlwithpython - here's a functions that python interacts with potsgresql and outputs a lot of data via: title, name, category and search
 ___
 
+### tg_bot.py
+> Telegram bot, working true psqlwithpy.py using Postgresql with Databases
+
 #### Таблица - Table
 #### Колонна - Column
 #### строка - row
